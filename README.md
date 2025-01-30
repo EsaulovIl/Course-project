@@ -16,7 +16,7 @@ TaskFlow is a Kanban-style project management system built using Flask. It allow
 
 ## File Structure
 1. app.py: Main application file containing routes, models, and configurations.
-2. created.py: Script for creating database tables.
+2. createdb.py: Script for creating database tables.
 3. create_role.py: Script for initializing user roles in the database.
 4. templates/: Contains HTML templates for the web interface.
    1. index.html: Main dashboard page.
