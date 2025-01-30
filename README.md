@@ -28,7 +28,7 @@ TaskFlow is a Kanban-style project management system built using Flask. It allow
 ## Installation
 1. Clone the repository:
 
-```git clone https://github.com/EsaulovIl/taskflow.git cd taskflow```
+```git clone https://github.com/EsaulovIl/Course-project.git cd taskflow```
 
 2. Create and activate a virtual environment:
 
@@ -40,7 +40,7 @@ TaskFlow is a Kanban-style project management system built using Flask. It allow
 
 4. Initialize the database:
 
-```python created.py python create_role.py```
+```python createdb.py python create_role.py```
 
 ## Running the Application
 1. Set the FLASK_APP environment variable:
